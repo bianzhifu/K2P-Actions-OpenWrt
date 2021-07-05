@@ -15,3 +15,7 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+
+
+git clone https://github.com/bianzhifu/k2p-openwrt-mt7615_5.0.4.0 package/k2p-openwrt-mt7615_5.0.4.0
